@@ -1,4 +1,4 @@
 
 
 def convert(value):
-    return ""
+    return "I"
